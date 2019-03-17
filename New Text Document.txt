@@ -1,1 +1,2 @@
 I edited this file.
+I added another line.
